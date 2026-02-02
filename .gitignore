@@ -84,3 +84,4 @@ docs/Operationalizing the 2026 Agentic Talent Framework*.md
 
 # === Agent Brain (conversation artifacts) ===
 .gemini/
+.env
